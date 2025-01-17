@@ -10,7 +10,11 @@
     <input type="text"><br>
 	<button>Submit<button>
 <input type="checkbox">I agree
+
 	Comment:<input type="text">
+
+<button>Reset</button>
+
 </body>
 </html>
 

@@ -1,2 +1,15 @@
-t kjfg;erg
-dfgioh
+<html>
+<head>
+ 
+    <title>Login Page</title>
+</head>
+<body>
+    <h2>Enter your name</h2>
+    <input type="text"><br>
+    <h2>Enter your add</h2>
+    <input type="text"><br>
+	<button>Submit<button>
+    <input type="checkbox">I agree
+</body>
+</html>
+

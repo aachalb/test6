@@ -9,7 +9,8 @@
     <h2>Enter your add</h2>
     <input type="text"><br>
 	<button>Submit<button>
-    <input type="checkbox">I agree
+<input type="checkbox">I agree
+<button>Reset</button>
 </body>
 </html>
 
